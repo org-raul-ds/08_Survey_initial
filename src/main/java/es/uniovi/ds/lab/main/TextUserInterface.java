@@ -1,6 +1,8 @@
-package es.uniovi.ds.lab.survey;
+package es.uniovi.ds.lab.main;
 
 import java.io.*;
+
+import es.uniovi.ds.lab.survey.Survey;
 
 public class TextUserInterface {
 
@@ -13,13 +15,13 @@ public class TextUserInterface {
 
             var answer = input.readLine();
 
-            if (answer.startsWith("ex"))
+            if (answer.startsWith("e")) // exit
                 return;
 
-            if (answer.startsWith("y"))
+            if (answer.startsWith("y")) // yes
                 survey.addYesVote();
 
-            if (answer.startsWith("n"))
+            if (answer.startsWith("n")) // no
                 survey.addNoVote();
 
         } while (true);

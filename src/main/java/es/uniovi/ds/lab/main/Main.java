@@ -9,7 +9,7 @@ package es.uniovi.ds.lab.main;
 
 import java.io.IOException;
 
-import es.uniovi.ds.lab.survey.*;
+import es.uniovi.ds.lab.survey.Survey;
 
 public class Main {
 
