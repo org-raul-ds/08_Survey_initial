@@ -18,7 +18,7 @@ Detect the improvement points in the design and redesign it using one or more pa
 
 We will be hired to create vote counting applications for five television programs from other networks. However, the same application cannot be used for all of them since each one has its particular requirements. Nevertheless, the goal is to reuse as much code as possible to make the development profitable.
 
-Create, for each of the new programs, a `Program{N}` class (with its own `main` method) that implements the requirements of that program.
+**IMPORTANT**: Create, for _each_ of the new programs, a `Program{n}` class (with its own `main` method) that implements the requirements of that program.
 
 The description of each program is as follows:
 1. For the next television program, they want a **status line** to also be drawn when a vote is received. A status line is, as already shown in the image above, a text line indicating the number of votes for each option ("_YES x% / NO x%_").
