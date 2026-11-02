@@ -1,6 +1,9 @@
 # Software Design Laboratory Class
 
-## ✏️ Instructions
+**⚠️ IMPORTANT NOTE:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
+
+
+## ✏️ Additional Instructions
 
 An implementation of an application that keeps track of votes received through phone calls for a survey conducted by a live television program is provided.
 
@@ -41,8 +44,6 @@ To submit your solution:
 - Run `git add -A`.
 - Run `git commit -m "final code"`.
 - Run `git push`.
-
-**⚠️ IMPORTANT NOTE:** This repository will be **deleted** at the end of the course. Make sure to save any code you want to keep elsewhere.
 
 
 ## ✅ Exercise Solution
